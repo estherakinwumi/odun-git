@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Please make sure you watch the /tmp of the remote server "
+echo "this is how i will build my git profile"
 echo "testing git security"
